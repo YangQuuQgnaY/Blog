@@ -1,6 +1,4 @@
-# baseURL = 'https://rip-and-tear.org/'
-# https://yangquuqgnay.github.io/ 
-baseURL = 'https://YangQuuQgnaY.github.io/'
+baseURL = 'https://yangquuqgnay.github.io/'
 locale = 'en-us'
 title = "Bruce Yang's blog"
 # theme的名称似乎和文件名有关
