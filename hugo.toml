@@ -1,6 +1,10 @@
 # baseURL = 'https://rip-and-tear.org/'
+# https://yangquuqgnay.github.io/ 
 baseURL = 'https://YangQuuQgnaY.github.io/'
 locale = 'en-us'
 title = "Bruce Yang's blog"
 # theme的名称似乎和文件名有关
-theme = 'hugo-PaperMod'
+theme = 'PaperMod'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
