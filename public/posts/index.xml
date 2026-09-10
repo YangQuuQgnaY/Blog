@@ -16,7 +16,9 @@
       <description>&lt;h1 id=&#34;into&#34;&gt;Into&lt;/h1&gt;
 &lt;p&gt;This is &lt;strong&gt;blod&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;h1 id=&#34;the-developer-is-working-like-crazyto-be-continued&#34;&gt;The developer is working like crazy.To be continued!&lt;/h1&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
+&lt;p&gt;Github receive this!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -8,3 +8,6 @@ This is **blod** text, and this is *emphasized* text.
 
 # The developer is working like crazy.To be continued!
 Visit the [Hugo](https://gohugo.io) website!
+
+# Test
+Github receive this!
